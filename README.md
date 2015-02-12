@@ -4,6 +4,8 @@ available online unless you buy the book and create a [user account](https://www
 are in the public domain but simply needed some cleaning up and
 recoding to match the format in the book.
 
+http://appliedpredictivemodeling.com/toc/
+
 Chapter 1
 ---------
 
